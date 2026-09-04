@@ -87,10 +87,7 @@ bash
 python app.py
 
 
-Open your browser and visit:
 
-
-http://127.0.0.1:5000
 
 
 ---
@@ -105,9 +102,4 @@ REST API Support
 
 ---
 
-## Author
 
-*Nandesh Mulge*
-
-GitHub: https://github.com/Nandeshb
-LinkedIn: https://www.linkedin.com/in/nandeshb
